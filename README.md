@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Surabaya , East JAVA INDONESIA.</h3>
 
 <p align="center">
-  <a href="https://github.com/gespotara"><img src="https://komarev.com/ghpvc/?username=dante4rt&style=flat-square" alt="Profile views"/></a>
+  <a href="https://github.com/gespotara"><img src="https://komarev.com/ghpvc/?username=gespotara&style=flat-square" alt="Profile views"/></a>
 </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ---
@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dante4rt&theme=algolia&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gespotara&theme=algolia&layout=compact" alt="Top Langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dante4rt&show_icons=true&theme=algolia" alt="dante4rt's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gespotara&show_icons=true&theme=algolia" alt="gespotara's GitHub Stats"/>
 </p>
