@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full-stack developer from Surabaya , East JAVA INDONESIA.</h3>
 
 <p align="center">
-  <a href="https://github.com/dante4rt"><img src="https://komarev.com/ghpvc/?username=dante4rt&style=flat-square" alt="Profile views"/></a>
+  <a href="https://github.com/gespotara"><img src="https://komarev.com/ghpvc/?username=dante4rt&style=flat-square" alt="Profile views"/></a>
 </p>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 ---
 
 ### 🌱 I’m currently learning:
